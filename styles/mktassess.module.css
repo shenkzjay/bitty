@@ -1,0 +1,52 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    flex-direction: column;
+    margin: 50px 150px;
+   
+    
+}
+
+.wrap h1{
+  
+  
+
+}
+
+.media{
+   display: grid;
+   grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+   grid-gap:1em;
+   place-content: center;
+   margin-bottom: 200px
+}
+
+
+.eduContent{
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap:1em;
+    place-content: center;
+    margin-bottom: 200px;
+    width:100%;
+}
+
+
+.subtext{
+    align-self: flex-start;
+}
+
+@media screen and (max-width:480px){
+    .wrap{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        /* height: 100vh; */
+        flex-direction: column;
+        margin: 50px 20px;
+       
+        
+    }
+}

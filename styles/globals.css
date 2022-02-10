@@ -1,0 +1,34 @@
+
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins';
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* leaflet container */
+.leaflet-container{
+  height: 570px;
+  width: 100%;
+}
+
+.leaflet-tooltip{
+  background: black;
+  transition: all 0.5s ease-out!important;
+  border-radius: 10px !important;
+  box-shadow: 10px 26px 46px -4px rgba(0,0,0,0.27) !important;
+-webkit-box-shadow: 10px 26px 46px -4px rgba(0,0,0,0.27)!important;
+-moz-box-shadow: 10px 26px 46px -4px rgba(0,0,0,0.27)!important;
+}
+
+/* Map */

@@ -1,0 +1,61 @@
+.wrap{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    flex-direction: column;
+   
+    
+}
+
+.wrap h1{
+  
+    margin: 50px 150px;
+
+}
+
+.media{
+   display: grid;
+   grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+   grid-gap:1em;
+   place-content: center;
+   margin-bottom: 200px
+}
+
+
+.parag{
+    margin: 0px 150px;
+    
+}
+
+.parag h1{
+    margin:0px;
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+    display: flex
+}
+
+.googleimg{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 5em;
+    place-content: center;
+    width: 100%;
+    margin-bottom: 200px;
+}
+
+.eduContent{
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(300px, 1fr));
+    grid-gap:1em;
+    place-content: center;
+    margin-bottom: 200px
+}
+
+@media screen and (max-width:480px){
+    .parag{
+        margin: 0px 30px;
+        
+    }
+}

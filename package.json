@@ -1,0 +1,35 @@
+{
+    "name": "mappie",
+    "private": true,
+    "scripts": {
+        "dev": "next dev -p 4000",
+        "build": "next build",
+        "start": "next start -p 4000",
+        "lint": "next lint",
+        "export": "next export"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^1.2.36",
+        "@fortawesome/free-regular-svg-icons": "^5.15.4",
+        "@fortawesome/free-solid-svg-icons": "^5.15.4",
+        "@fortawesome/react-fontawesome": "^0.1.16",
+        "@hookstate/core": "^3.0.13",
+        "@hookstate/persistence": "^3.0.0",
+        "axios": "^0.25.0",
+        "comma-number": "^2.1.0",
+        "country-finder": "^1.0.8",
+        "leaflet": "^1.7.1",
+        "next": "12.0.7",
+        "react": "17.0.2",
+        "react-dom": "17.0.2",
+        "react-hot-toast": "^2.2.0",
+        "react-icons": "^4.3.1",
+        "react-leaflet": "^3.2.2",
+        "react-pure-modal": "^2.1.0",
+        "swr": "^1.1.2"
+    },
+    "devDependencies": {
+        "eslint": "8.6.0",
+        "eslint-config-next": "12.0.7"
+    }
+}

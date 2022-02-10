@@ -1,0 +1,87 @@
+[{
+        "_id": "61df3be4704fe308bba80da7",
+        "categoryId": "61df35c15c4bf6dff3fef4e3",
+
+        "country": "Nigeria",
+        "latitude": 9.6000359,
+        "longitude": 7.9999721,
+        "data": {
+            "title": "Nigeria Block Chain Association",
+            "description": "Biggest block chain association in Nigeria"
+        },
+        "createdAt": "2022-01-12T20:36:52.993Z",
+        "updatedAt": "2022-01-12T20:36:52.993Z",
+        "categoryName": "BlockChain Associations"
+    }, {
+        "_id": "61df3c7a4d6c5cf23702a04f",
+        "categoryId": "61df35c15c4bf6dff3fef4e3",
+        "country": "Ghana",
+        "latitude": 8.0300284,
+        "longitude": -1.0800271,
+        "data": {
+            "title": "Ghana Block Chain Association",
+            "description": "This is the largest block chain association in Ghana"
+        },
+        "createdAt": "2022-01-12T20:39:22.866Z",
+        "updatedAt": "2022-01-12T20:39:22.866Z",
+
+        "categoryName": "BlockChain Associations"
+    }, {
+        "_id": "61df3c9e4d6c5cf23702a054",
+        "categoryId": "61df35c15c4bf6dff3fef4e3",
+        "country": "Ghana",
+        "latitude": 8.0300284,
+        "longitude": -1.0800271,
+        "data": {
+            "title": "Mini Ghana Block Chain Association",
+            "description": "This is the smallest block chain association in Ghana"
+        },
+        "createdAt": "2022-01-12T20:39:58.826Z",
+        "updatedAt": "2022-01-12T20:39:58.826Z",
+        "categoryName": "BlockChain Associations"
+    },
+    {
+        "_id": "61df3c9e4d6c5cf23702a053",
+        "categoryId": "61e0dac09333f7275a2d7295",
+        "country": "Ghana",
+        "latitude": 8.0300284,
+        "longitude": -1.0800271,
+        "data": {
+            "title": "Ghana National Crypto Events",
+            "description": "This is the biggest crypto event in ghana"
+        },
+        "createdAt": "2022-01-12T20:39:58.826Z",
+        "updatedAt": "2022-01-12T20:39:58.826Z",
+        "categoryName": "Crypto Events"
+    },
+    {
+        "_id": "61df3be4704fe308bba80da2",
+        "categoryId": "61e0dac09333f7275a2d7295",
+
+        "country": "Nigeria",
+        "latitude": 9.6000359,
+        "longitude": 7.9999721,
+        "data": {
+            "title": "Abuja Nigeria Crypto Event",
+            "description": "Biggest crypto event in Abuja"
+        },
+        "createdAt": "2022-01-12T20:36:52.993Z",
+        "updatedAt": "2022-01-12T20:36:52.993Z",
+        "categoryName": "Crypto Events"
+    },
+    {
+        "_id": "61df3be4704fe308bba80da2",
+        "categoryId": "61e0dac09333f7275a2d7295",
+
+        "country": "Kenya",
+        "latitude": 1.4419683,
+        "longitude": 38.4313975,
+        "data": {
+            "title": "Nairobi biggest crypto event",
+            "description": "Biggest crypto event in Nairobo Kenya"
+        },
+        "createdAt": "2022-01-12T20:36:52.993Z",
+        "updatedAt": "2022-01-12T20:36:52.993Z",
+        "categoryName": "Crypto Events"
+    }
+]
