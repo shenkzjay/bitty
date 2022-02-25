@@ -164,7 +164,7 @@ const Report = () => {
 
                                         <div className="col-12 col-lg-12 px-3 py-5 px-sm-5 px-md-6">
                                             <div className="text-center text-md-center mb-4 mt-md-0">
-                                                <h1 className="mb-0 h3">Report Event</h1>
+                                                <h1 className="mb-0 h3">Submit info</h1>
                                             </div>
                                             <form className="mt-4">
 
